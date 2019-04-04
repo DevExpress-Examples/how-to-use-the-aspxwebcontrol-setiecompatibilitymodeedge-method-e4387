@@ -3,8 +3,8 @@
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [PageNestedToMasterPage.aspx](./CS/WebSite/PageNestedToMasterPage.aspx) (VB: [PageNestedToMasterPage.aspx](./VB/WebSite/PageNestedToMasterPage.aspx))
-* [PageNestedToMasterPage.aspx.cs](./CS/WebSite/PageNestedToMasterPage.aspx.cs) (VB: [PageNestedToMasterPage.aspx](./VB/WebSite/PageNestedToMasterPage.aspx))
-* [StandalonePage.aspx](./CS/WebSite/StandalonePage.aspx) (VB: [StandalonePage.aspx.vb](./VB/WebSite/StandalonePage.aspx.vb))
+* [PageNestedToMasterPage.aspx.cs](./CS/WebSite/PageNestedToMasterPage.aspx.cs) (VB: [PageNestedToMasterPage.aspx.vb](./VB/WebSite/PageNestedToMasterPage.aspx.vb))
+* [StandalonePage.aspx](./CS/WebSite/StandalonePage.aspx) (VB: [StandalonePage.aspx](./VB/WebSite/StandalonePage.aspx))
 * [StandalonePage.aspx.cs](./CS/WebSite/StandalonePage.aspx.cs) (VB: [StandalonePage.aspx.vb](./VB/WebSite/StandalonePage.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxWebControl SetIECompatibilityModeEdge method
